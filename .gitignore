@@ -1,0 +1,5 @@
+isolated_digits_ti_test/*
+!isolated_digits_ti_test/.gitkeep
+
+isolated_digits_ti_train/*
+!isolated_digits_ti_train/.gitkeep
